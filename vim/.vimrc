@@ -136,3 +136,6 @@ nnoremap <Space> :
 nnoremap <Esc><Esc> :w<CR>
 au CursorHold,InsertLeave * :w 
 
+" add lines above or below cursor and stay in normal mode
+" nnoremap <Enter> mzo<Esc>´z
+nnoremap <Enter> mzO<Esc>´z

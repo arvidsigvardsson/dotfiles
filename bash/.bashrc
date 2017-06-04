@@ -124,4 +124,7 @@ fortune | cowsay
 alias conf="vim /home/arvid/.config/i3/config"
 alias dev="cd /home/arvid/Dropbox/Development/"
 alias data="cd /home/arvid/Dropbox/DatateknikMAH/"
-alias gs="git status"
+alias gis="git status"
+alias oct="octave --no-gui"
+alias proj="cd /home/arvid/Dropbox/DatateknikMAH/ProjektVT2017/ValentinaTereshkova/"
+alias em="emacsclient -nc --alternate-editor=\"\""
