@@ -1,0 +1,2 @@
+* Some of my dotfiles
+Organised with gnu stow. Running stow <name of app> will symlink the dotfile to correct location
